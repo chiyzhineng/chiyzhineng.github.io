@@ -641,7 +641,7 @@ ul.ftr-socialicons li a.print:hover {
 .copyright p a{
   font-size: 1em;
   font-weight: 400;
-  color: #FFAD06;
+  color: #000;
 }
 .copyright p a:hover{
   text-decoration:none;
