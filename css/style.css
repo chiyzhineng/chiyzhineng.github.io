@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 h4, h5, h6,
 h1, h2, h3 {margin: 0;}
 ul, ol {margin: 0;}
@@ -32,12 +27,12 @@ a:hover {
 }
 /*--banner start here--*/
 .banner {
-  background: url(https://www.bing.com/az/hprichbg/rb/ShanghaiElevatedWalkway_ZH-CN8623422930_1920x1080.jpg)no-repeat;
+  background: url(http://s.cn.bing.net/az/hprichbg/rb/CircularIncaTerraces_ZH-CN12305945804_1920x1080.jpg)no-repeat;
   background-size: cover;
   min-height: 700px;
 }
 .banner-two {
-  background: url(https://www.bing.com/az/hprichbg/rb/ShanghaiElevatedWalkway_ZH-CN8623422930_1920x1080.jpg)no-repeat;
+  background: url(http://s.cn.bing.net/az/hprichbg/rb/CircularIncaTerraces_ZH-CN12305945804_1920x1080.jpg)no-repeat;
   background-size: cover;
   min-height: 250px;
 }
